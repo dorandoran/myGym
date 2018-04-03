@@ -45,13 +45,13 @@ In order to test the application, several services are required.
 - [Expo](https://expo.io/) development environment
 
 #### Installing
-If you surivived the lengthy install process, you will want to clone the repository:
+If you surivived the lengthy install process, you will want to clone the repository in your terminal:
 ```sh
  git clone https://github.com/dorandoran/myGym
  cd myGym
 ```
 
-After navigating to cloned repository folder, make sure you install packages:
+After navigating to cloned repository folder, make sure you install packages in the terminal:
 ```sh
  npm install
 ```
