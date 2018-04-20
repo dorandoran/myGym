@@ -96,4 +96,4 @@ const GYM_QUERY_PARAMS = {
  
  # Acknowledgements
  - Thanks to everyone whose packages I used. You are beautiful people, I don't care what anyone says!
- - Stephen Grider : a true inspiration. I was lost at sea until you gave me the tools to succeed! Thank you so much!!
+ - Stephen G : a true inspiration. I was lost at sea until you gave me the tools to succeed! Thank you so much!!
